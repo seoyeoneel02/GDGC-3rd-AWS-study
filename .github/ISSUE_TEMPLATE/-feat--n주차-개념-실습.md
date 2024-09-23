@@ -10,7 +10,6 @@ assignees: seoyeoneel02
 ## 📚 강의 내용
 - 섹션 n. AWS - 
 
-
 ## ✏️ ToDoList
 - [ ] [n-1] 
 - [ ] [n-2]
