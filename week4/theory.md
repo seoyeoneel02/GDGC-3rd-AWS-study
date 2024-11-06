@@ -31,9 +31,9 @@ CloudWatch 모니터링 종류
 
     무료, 5분 간격으로 최소의 Metrics 제공
     
-3. Detailed Monitoring
+2. Detailed Monitoring
 
-   유료, 1분 간격으로 자세한 Metrics 제공
+    유료, 1분 간격으로 자세한 Metrics 제공
 <br>
 
 CloudWatch 사용 용례
